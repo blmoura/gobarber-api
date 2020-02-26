@@ -1,0 +1,11 @@
+{
+  "name": "gobarber-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blmoura/gobarber-api.git",
+  "author": "Bruno Moura <brunomoura.blm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
